@@ -19,7 +19,7 @@ body {
 	-ms-align-items: center;
 	-moz-align-items: center;
 	-webkit-align-items: center;
-}
+	}
 .form-v8-content  {
 	background: #fff;
 	width: 937px;
@@ -139,7 +139,7 @@ body {
 	margin-bottom: 31px;
 }
 .form-v8-content .form-detail input {
-	width: 100%;
+    width: 100%;
     padding: 0px 10px 15px 10px;
     border: 1px solid transparent;
     border-bottom: 1px solid;
